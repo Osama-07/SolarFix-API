@@ -78,5 +78,6 @@ namespace SolarFix.Controllers
 
 			return Ok(mapper.Map<IEnumerable<UserResponseDTO>>(users));
 		}
+
 	}
 }
