@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolarFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d2ff0e3c7bfa9444427c0f17b274056281f1077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d1a701bd4326264900d89d49b2030a2b27b08ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolarFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolarFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

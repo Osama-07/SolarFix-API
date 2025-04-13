@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L0evoUBFi5M=",
+  "dgSpecHash": "fj64mjzdtBQ=",
   "success": true,
-  "projectFilePath": "D:\\سطح المكتب\\SolarFix\\SolarFix\\SolarFix.csproj",
+  "projectFilePath": "D:\\سطح المكتب\\SolarFix-API\\SolarFix\\SolarFix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\osama\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\osama\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

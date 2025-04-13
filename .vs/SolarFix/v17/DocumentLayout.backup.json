@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\SolarFix-API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F738E105-A8F3-4C8D-A6DF-CB94F8E7B713}|SolarFix\\SolarFix.csproj|d:\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\solarfix-api\\solarfix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F738E105-A8F3-4C8D-A6DF-CB94F8E7B713}|SolarFix\\SolarFix.csproj|solutionrelative:solarfix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +51,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\SolarFix-API\\SolarFix\\appsettings.json",
+              "RelativeDocumentMoniker": "SolarFix\\appsettings.json",
+              "ToolTip": "D:\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\SolarFix-API\\SolarFix\\appsettings.json",
+              "RelativeToolTip": "SolarFix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T07:41:22.357Z",
+              "EditorCaption": ""
             }
           ]
         },

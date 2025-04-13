@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\سطح المكتب\\SolarFix\\SolarFix\\SolarFix.csproj": {}
+    "D:\\سطح المكتب\\SolarFix-API\\SolarFix\\SolarFix.csproj": {}
   },
   "projects": {
-    "D:\\سطح المكتب\\SolarFix\\SolarFix\\SolarFix.csproj": {
+    "D:\\سطح المكتب\\SolarFix-API\\SolarFix\\SolarFix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\سطح المكتب\\SolarFix\\SolarFix\\SolarFix.csproj",
+        "projectUniqueName": "D:\\سطح المكتب\\SolarFix-API\\SolarFix\\SolarFix.csproj",
         "projectName": "SolarFix",
-        "projectPath": "D:\\سطح المكتب\\SolarFix\\SolarFix\\SolarFix.csproj",
+        "projectPath": "D:\\سطح المكتب\\SolarFix-API\\SolarFix\\SolarFix.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "D:\\سطح المكتب\\SolarFix\\SolarFix\\obj\\",
+        "outputPath": "D:\\سطح المكتب\\SolarFix-API\\SolarFix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

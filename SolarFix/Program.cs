@@ -45,7 +45,7 @@ builder.Services.AddCors(options =>
 	options.AddDefaultPolicy( 
 		policy =>
 		{
-			policy.WithOrigins("http://localhost:3000")
+			policy.WithOrigins("https://solar-fix-git-main-osamas-projects-b75d1734.vercel.app")
 				  .AllowAnyHeader()
 				  .AllowAnyMethod()
 				  .AllowCredentials()
