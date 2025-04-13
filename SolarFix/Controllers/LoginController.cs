@@ -18,11 +18,13 @@ namespace SolarFix.Controllers
 		public async Task<ActionResult<UserResponseDTO>> Login([FromBody] LoginDTO loginInfo)
 		{
 			if (string.IsNullOrEmpty(loginInfo.Email) ||
-				string.IsNullOrEmpty(loginInfo.Password)) return BadRequest();
+				string.IsNullOrEmpty(loginInfo.Password))
+				return BadRequest();
 
 			var user = await context.Set<User>().FirstOrDefaultAsync(u => u.Email == loginInfo.Email && u.Password == loginInfo.Password);
 
-			if (user == null) return NotFound();
+			if (user == null)
+				return NotFound();
 
 			var token = jwtTokenService.GenerateToken(user.Email);
 

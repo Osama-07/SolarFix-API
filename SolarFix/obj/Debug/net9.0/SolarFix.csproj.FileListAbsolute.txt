@@ -169,4 +169,6 @@ D:\سطح المكتب\SolarFix\SolarFix\bin\Debug\net9.0\Microsoft.IdentityMode
 D:\سطح المكتب\SolarFix\SolarFix\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\سطح المكتب\SolarFix\SolarFix\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 D:\سطح المكتب\SolarFix\SolarFix\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\سطح المكتب\SolarFix\SolarFix\obj\Debug\net9.0\SolarFix.sourcelink.json
 D:\سطح المكتب\SolarFix\SolarFix\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\سطح المكتب\SolarFix\SolarFix\bin\Debug\net9.0\SolarFix.db

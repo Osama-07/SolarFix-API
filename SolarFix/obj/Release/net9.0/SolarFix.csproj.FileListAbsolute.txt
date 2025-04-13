@@ -170,3 +170,5 @@ D:\سطح المكتب\SolarFix\SolarFix\obj\Release\net9.0\refint\SolarFix.dll
 D:\سطح المكتب\SolarFix\SolarFix\obj\Release\net9.0\SolarFix.pdb
 D:\سطح المكتب\SolarFix\SolarFix\obj\Release\net9.0\SolarFix.genruntimeconfig.cache
 D:\سطح المكتب\SolarFix\SolarFix\obj\Release\net9.0\ref\SolarFix.dll
+D:\سطح المكتب\SolarFix\SolarFix\obj\Release\net9.0\SolarFix.sourcelink.json
+D:\سطح المكتب\SolarFix\SolarFix\bin\Release\net9.0\SolarFix.db
